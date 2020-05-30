@@ -1,1 +1,36 @@
-[{"id":"project_a","name":"Project A","ordered":false,"labeled":false,"categoryId":"project_scope","status":"Standard"},{"id":"customer_refund","name":"Customer Refund","ordered":false,"labeled":false,"description":"The end-to-end process for accepting and conducting a customer refund.","categoryId":"business_process","status":"Standard"},{"id":"testcollections","name":"TestCollections","ordered":true,"labeled":true,"categoryId":"business_process","status":"Standard"}]
+[
+    {
+        "id": "project_a",
+        "name": "Project A",
+        "ordered": false,
+        "labeled": false,
+        "categoryId": "project_scope",
+        "status": "Standard"
+    },
+    {
+        "id": "customer_refund",
+        "name": "Customer Refund",
+        "ordered": false,
+        "labeled": false,
+        "description": "The end-to-end process for accepting and conducting a customer refund.",
+        "categoryId": "business_process",
+        "status": "Standard"
+    },
+    {
+        "id": "testcollections",
+        "name": "TestCollections",
+        "ordered": true,
+        "labeled": true,
+        "categoryId": "business_process",
+        "status": "Standard"
+    },
+    {
+        "id": "test_collections_2",
+        "name": "Test_Collections_2",
+        "ordered": false,
+        "labeled": false,
+        "description": "The end-to-end process for accepting and conducting a customer refund.",
+        "categoryId": "business_process",
+        "status": "Standard"
+    },
+]

@@ -1,1 +1,24 @@
-[{"id":"active_directory","name":"Active Directory","version":"2019","description":"Our main user directory.","categoryId":"infrastructure","status":"Standard"},{"id":"auth_library","name":"Auth Library","version":"1.1","description":"Standard shared authentication library.","categoryId":"library","status":"Standard"},{"id":"testcomponents","name":"TestComponents","categoryId":"infrastructure","status":"Standard"}]
+[
+    {
+        "id": "active_directory",
+        "name": "Active Directory",
+        "version": "2019",
+        "description": "Our main user directory.",
+        "categoryId": "infrastructure",
+        "status": "Standard"
+    },
+    {
+        "id": "auth_library",
+        "name": "Auth Library",
+        "version": "1.1",
+        "description": "Standard shared authentication library.",
+        "categoryId": "library",
+        "status": "Standard"
+    },
+    {
+        "id": "testcomponents",
+        "name": "TestComponents",
+        "categoryId": "infrastructure",
+        "status": "Standard"
+    }
+]

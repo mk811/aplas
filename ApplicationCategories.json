@@ -1,1 +1,14 @@
-[{"id":"corporate_services","name":"Corporate Services","color":"#f00","status":"Standard"},{"id":"finance","name":"Finance","color":"#00f","status":"Standard"}]
+[
+    {
+        "id": "corporate_services",
+        "name": "Corporate Services",
+        "color": "#f00",
+        "status": "Standard"
+    },
+    {
+        "id": "finance",
+        "name": "Finance",
+        "color": "#00f",
+        "status": "Standard"
+    }
+]

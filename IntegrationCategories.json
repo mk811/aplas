@@ -1,1 +1,26 @@
-[{"id":"manual","name":"Manual","color":"#ff66f2","status":"Standard"},{"id":"esb","name":"ESB","color":"#f2b629","status":"Standard"},{"id":"api","name":"API","color":"#0d0","status":"Standard"},{"id":"scheduler","name":"Scheduler","color":"#65fffa","status":"Standard"}]
+[
+    {
+        "id": "manual",
+        "name": "Manual",
+        "color": "#ff66f2",
+        "status": "Standard"
+    },
+    {
+        "id": "esb",
+        "name": "ESB",
+        "color": "#f2b629",
+        "status": "Standard"
+    },
+    {
+        "id": "api",
+        "name": "API",
+        "color": "#0d0",
+        "status": "Standard"
+    },
+    {
+        "id": "scheduler",
+        "name": "Scheduler",
+        "color": "#65fffa",
+        "status": "Standard"
+    }
+]
